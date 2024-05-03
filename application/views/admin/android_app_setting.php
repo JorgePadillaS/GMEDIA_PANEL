@@ -16,7 +16,7 @@
         <div class="panel-body"> 
           <!-- panel  -->
           <div class="form-group row">
-            <label class="col-sm-3 control-label"><strong>API URL FOR ANDROID</strong></label>
+            <label class="col-sm-3 control-label"><strong>URL API para Android</strong></label>
             <div class="col-sm-9">
               <input type="text"  value="<?php echo base_url('api/') ?>" readonly class="form-control" required data-parsley-length="[14, 128]" />
               <p><small>Copy &amp; paste this URL to Android Source Code.</small></p>
